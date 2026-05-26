@@ -108,6 +108,13 @@ events:
     continent: Europe
     link: https://www.issfd2026.fr/
 
+  - title: XXXVIth URSI General Assembly and Scientific Symposium 
+    link: https://www.ursi-gass2026.pl
+    startDate: 2026-08-15
+    endDate: 2026-08-22
+    location: Kraków, Poland
+    continent: Europe
+
   - title: 16th EASN International Conference
     link: https://easnconference.eu/
     startDate: 2026-10-27
