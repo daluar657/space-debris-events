@@ -157,7 +157,12 @@ pastEvents:
     location: Hong Kong
     continent: Asia
     link: https://www.ssconf.space/
-
+  - title: EGU General Assembly 2026
+    link: https://www.egu26.eu
+    startDate: 2026-05-03
+    endDate: 2026-05-08
+    location: Vienna, Austria
+    continent: Europe
   - title: SpaceOps Workshop 2026
     startDate: 2026-04-21
     endDate: 2026-04-23
@@ -176,49 +181,42 @@ pastEvents:
     location: Tres Cantos, Madrid, Spain
     continent: Europe
     link: https://web.cvent.com/event/dffa94f9-d8cf-4201-88ae-f8d0a3049700/summary?environment=P2
-    
   - title: DRAMA Clinics & Workshop on probabilistic re-entry modelling
     startDate: 2026-03-23
     endDate: 2026-03-24
     location: Online
     continent: Online
     link: https://indico.esa.int/event/645/overview
-    
   - title: "2nd Conference on Earth-Space Sustainability: Law, Stewardship, Equity"
     startDate: 2026-03-18
     endDate: 2026-03-20
     location: Leiden, Netherlands
     continent: Europe
     link: https://www.universiteitleiden.nl/en/law/institute-of-public-law/institute-of-air-space-law/events/2nd-conference-on-earth-space-sustainability-law-stewardship-equity
-    
   - title: International Conjunction Assessment Workshop 2025
     startDate: 2025-06-18
     endDate: 2025-06-20
     location: Toulouse, France
     continent: Europe
     link: https://spod.cnes.fr/AuthServlet/Control?page=105
-
   - title: 9th European Conference on Space Debris
     startDate: 2025-04-01
     endDate: 2025-04-04
     location: Bonn, Germany
     continent: Europe
     link: https://space-debris-conference.sdo.esoc.esa.int/page/welcome
-
   - title: 36th AIAA/AAS Space Flight Mechanics Meeting
     startDate: 2026-01-12
     endDate: 2026-01-16
     location: Orlando, FL, USA
     continent: North America
     link: https://www.space-flight.org/docs/2026_winter/2026_winter.html
-
   - title: 2nd International Space Debris Conference
     startDate: 2026-01-26
     endDate: 2026-01-27
     location: Riyahd, Saudi Arabia
     continent: Asia
     link: https://ssa.gov.sa/sdc26/
-
   - title: 12th Annual Space Traffic Conference
     startDate: 2026-02-18
     endDate: 2026-02-19
