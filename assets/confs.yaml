@@ -1,12 +1,6 @@
 events:
 
 
-  - title: ESA Space Safety Industry Day 2026
-    startDate: 2026-06-16
-    endDate: 2026-06-16
-    location: ESTEC, Netherlands
-    continent: Europe
-    link: https://indico.esa.int/event/646/overview
 
   - title: ESA Clean Space Days 2026
     startDate: 2026-06-29
@@ -21,13 +15,6 @@ events:
     location: Sevilla, Spain
     continent: Europe
     link: https://indico.esa.int/event/651/
-
-  - title: 7th KePaSSA International Workshop (Key Topics in Orbit Propagation Applied to SSA)
-    startDate: 2026-05-27
-    endDate: 2026-05-29
-    location: Toulon, France
-    continent: Europe
-    link: https://kepassa2026.univ-tln.fr/
 
   - title: 77th International Astronautical Congress (IAC)
     startDate: 2026-10-05
@@ -50,15 +37,6 @@ events:
     continent: Europe
     link: https://cospar2026.org
 
-
-
-  - title: SSA Operators Workshop 2026
-    startDate: 2026-06-02
-    endDate: 2026-06-06
-    location: Boulder, CO, USA
-    continent: North America
-    link: https://advancedssa.com/workshop/
-
   - title: 2026 AAS/AIAA Astrodynamics Specialist Conference
     startDate: 2026-07-26
     endDate: 2026-07-30
@@ -80,13 +58,6 @@ events:
     continent: Europe
     link: https://atpi.eventsair.com/gncicatt/
 
-  - title: 2nd Space Capacity Allocation For The Sustainability Of Space Activities Workshop
-    startDate: 2026-06-03
-    endDate: 2026-06-05
-    location: Milano, Italy
-    continent: Europe
-    link: https://indico.esa.int/event/648/overview
-
   - title: 14th IAASS Space Safety Conference
     startDate: 2026-10-20
     endDate: 2026-10-22
@@ -100,13 +71,6 @@ events:
     location: San Martino al Cimino, Viterbo, Italy
     continent: Europe
     link: https://www.mat.uniroma2.it/~celmec/celmec9/index.html
-
-  - title: 30th International Symposium on Space Flight Dynamics (ISSFD)
-    startDate: 2026-06-01
-    endDate: 2026-06-05
-    location: Toulouse, France
-    continent: Europe
-    link: https://www.issfd2026.fr/
 
   - title: XXXVIth URSI General Assembly and Scientific Symposium 
     link: https://www.ursi-gass2026.pl
@@ -223,3 +187,38 @@ pastEvents:
     location: Austin, TX, USA
     continent: North America
     link: https://iaaspace.org/event/12th-space-traffic-conference-2026/
+
+  - title: 7th KePaSSA International Workshop (Key Topics in Orbit Propagation Applied to SSA)
+    startDate: 2026-05-27
+    endDate: 2026-05-29
+    location: Toulon, France
+    continent: Europe
+    link: https://kepassa2026.univ-tln.fr/
+
+  - title: 30th International Symposium on Space Flight Dynamics (ISSFD)
+    startDate: 2026-06-01
+    endDate: 2026-06-05
+    location: Toulouse, France
+    continent: Europe
+    link: https://www.issfd2026.fr/
+
+  - title: SSA Operators Workshop 2026
+    startDate: 2026-06-02
+    endDate: 2026-06-06
+    location: Boulder, CO, USA
+    continent: North America
+    link: https://advancedssa.com/workshop/
+
+  - title: 2nd Space Capacity Allocation For The Sustainability Of Space Activities Workshop
+    startDate: 2026-06-03
+    endDate: 2026-06-05
+    location: Milano, Italy
+    continent: Europe
+    link: https://indico.esa.int/event/648/overview
+
+  - title: ESA Space Safety Industry Day 2026
+    startDate: 2026-06-16
+    endDate: 2026-06-16
+    location: ESTEC, Netherlands
+    continent: Europe
+    link: https://indico.esa.int/event/646/overview
