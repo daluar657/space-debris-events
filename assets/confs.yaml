@@ -2,12 +2,6 @@ events:
 
 
 
-  - title: ESA Clean Space Days 2026
-    startDate: 2026-06-29
-    endDate: 2026-07-03
-    location: ESTEC, Netherlands
-    continent: Europe
-    link: https://indico.esa.int/event/644/
 
   - title: Zero Debris Week 2026
     startDate: 2026-09-08
@@ -113,6 +107,20 @@ events:
     location: Munich, Germany
     continent: Europe
     link: https://spaceops2027.org
+
+  - title: MASTER workshop - connecting observations and modelling
+    startDate: 2026-11-17
+    endDate: 2026-11-18
+    location: Darmstadt, Germany
+    continent: Europe
+    link: https://indico.esa.int/event/675/ 
+
+  - title: 13th annual Space Traffic conference
+    startDate: 2027-03-03
+    endDate: 2027-03-04
+    location: Austin, Texas, USA
+    continent: North America
+    link: https://iaaspace.org/event/13th-space-traffic-conference-2027/
 
 pastEvents:
   - title: IAA-HKU-EPFL Space Debris and Sustainability Conference
@@ -222,3 +230,11 @@ pastEvents:
     location: ESTEC, Netherlands
     continent: Europe
     link: https://indico.esa.int/event/646/overview
+
+
+  - title: ESA Clean Space Days 2026
+    startDate: 2026-06-29
+    endDate: 2026-07-03
+    location: ESTEC, Netherlands
+    continent: Europe
+    link: https://indico.esa.int/event/644/
