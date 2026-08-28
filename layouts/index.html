@@ -54,7 +54,7 @@
     <tbody>
         {{ range  .pastEvents }}
         <tr>
-            <td><a href="https://{{ .link }}">{{ .title }}</a></td>
+            <td><a href="{{ .link }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a></td>
             <td>{{ .startDate }}</td>
             <td>{{ .endDate }}</td>
             <td>{{ .location }}</td>
