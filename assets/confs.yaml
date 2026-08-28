@@ -1,11 +1,4 @@
 events:
-  - title: XXXVIth URSI General Assembly and Scientific Symposium 
-    link: https://www.ursi-gass2026.pl
-    startDate: 2026-08-15
-    endDate: 2026-08-22
-    location: Kraków, Poland
-    continent: Europe
-
   - title: 4th Workshop on Life Cycle Assessment of Space Transportation Systems
     startDate: 2026-09-01
     endDate: 2026-09-03
@@ -26,6 +19,7 @@ events:
     location: San Martino al Cimino, Viterbo, Italy
     continent: Europe
     link: https://www.mat.uniroma2.it/~celmec/celmec9/index.html
+
   - title: AMOS (Advanced Maui Optical and Space Surveillance Technologies) 2026
     startDate: 2026-09-15
     endDate: 2026-09-18
@@ -77,6 +71,12 @@ events:
 
 # 2027
 
+  - title: 37th AIAA/AAS Space Flight Mechanics Meeting
+    startDate: 2027-01-17
+    endDate: 2027-01-21
+    location: New Orleans, LA, USA
+    continent: North America
+
   - title: 13th Annual Space Traffic conference
     startDate: 2027-03-03
     endDate: 2027-03-04
@@ -91,7 +91,7 @@ events:
     continent: Europe
     link: https://eucass2027.eu/
 
-  - title: SpaceOps 2027
+  - title: 19th International Conference on Space Operations (SpaceOps)
     startDate: 2027-05-10
     endDate: 2027-05-14
     location: Munich, Germany
@@ -112,6 +112,29 @@ events:
     location: Toulouse, France
     continent: Europe
 
+# more
+
+  - title: 47th COSPAR Scientific Assembly
+    startDate: 2028-07-08
+    endDate: 2028-07-16
+    location: Dubai, UAE
+    continent: Asia
+    link: https://cosparhq.cnes.fr
+
+  - title: 79th International Astronautical Congress (IAC)
+    startDate: 2028-09-01
+    endDate: 2028-09-05
+    location: Samarkand, Uzbekistan
+    continent: Asia
+    link: https://www.iac2028.org/
+
+  - title: 48th COSPAR Scientific Assembly
+    startDate: 2030-07-20
+    endDate: 2030-07-28
+    location: Toulouse, France
+    continent: Europe
+    link: https://cosparhq.cnes.fr
+
 pastEvents:
   - title: 46th COSPAR Scientific Assembly
     startDate: 2026-08-01
@@ -131,12 +154,6 @@ pastEvents:
     location: Hong Kong
     continent: Asia
     link: https://www.ssconf.space/
-  - title: EGU General Assembly 2026
-    link: https://www.egu26.eu
-    startDate: 2026-05-03
-    endDate: 2026-05-08
-    location: Vienna, Austria
-    continent: Europe
   - title: SpaceOps Workshop 2026
     startDate: 2026-04-21
     endDate: 2026-04-23
@@ -197,43 +214,36 @@ pastEvents:
     location: Austin, TX, USA
     continent: North America
     link: https://iaaspace.org/event/12th-space-traffic-conference-2026/
-
   - title: 7th KePaSSA International Workshop (Key Topics in Orbit Propagation Applied to SSA)
     startDate: 2026-05-27
     endDate: 2026-05-29
     location: Toulon, France
     continent: Europe
     link: https://kepassa2026.univ-tln.fr/
-
   - title: 30th International Symposium on Space Flight Dynamics (ISSFD)
     startDate: 2026-06-01
     endDate: 2026-06-05
     location: Toulouse, France
     continent: Europe
     link: https://www.issfd2026.fr/
-
   - title: SSA Operators Workshop 2026
     startDate: 2026-06-02
     endDate: 2026-06-06
     location: Boulder, CO, USA
     continent: North America
     link: https://advancedssa.com/workshop/
-
   - title: 2nd Space Capacity Allocation For The Sustainability Of Space Activities Workshop
     startDate: 2026-06-03
     endDate: 2026-06-05
     location: Milano, Italy
     continent: Europe
     link: https://indico.esa.int/event/648/overview
-
   - title: ESA Space Safety Industry Day 2026
     startDate: 2026-06-16
     endDate: 2026-06-16
     location: ESTEC, Netherlands
     continent: Europe
     link: https://indico.esa.int/event/646/overview
-
-
   - title: ESA Clean Space Days 2026
     startDate: 2026-06-29
     endDate: 2026-07-03
