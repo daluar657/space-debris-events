@@ -77,12 +77,12 @@ events:
     location: New Orleans, LA, USA
     continent: North America
 
-  - title: 13th Annual Space Traffic conference
+  - title: 13th Annual Space Traffic Conference
     startDate: 2027-03-03
     endDate: 2027-03-04
     location: Austin, Texas, USA
     continent: North America
-    link: https://iaaspace.org/event/13th-space-traffic-conference-2027/
+    link: https://www.strausscenter.org/events/turning-conjunctions-into-coordination-13th-annual-space-traffic-conference/
 
   - title: 12th European Conference for AeroSpace Sciences (EUCASS)
     startDate: 2027-06-28
