@@ -1,11 +1,4 @@
 events:
-  - title: ESA 13th GNC & 10th ICATT Conference
-    startDate: 2026-09-28
-    endDate: 2026-10-02
-    location: Sevilla, Spain
-    continent: Europe
-    link: https://atpi.eventsair.com/gncicatt/
-
   - title: 77th International Astronautical Congress (IAC)
     startDate: 2026-10-05
     endDate: 2026-10-09
@@ -62,6 +55,13 @@ events:
     location: Austin, Texas, USA
     continent: North America
     link: https://www.strausscenter.org/events/turning-conjunctions-into-coordination-13th-annual-space-traffic-conference/
+
+  - title: 6th IAA Conference on Space Situational Awareness (ICSSA)
+    startDate: 2027-04-20
+    endDate: 2027-04-22
+    location: Naples, Italy
+    continent: Europe
+    link: https://ufcd.cventevents.com/event/icssa/summary
 
   - title: 12th European Conference for AeroSpace Sciences (EUCASS)
     startDate: 2027-06-28
@@ -253,3 +253,9 @@ pastEvents:
     location: Maui, Hawai'i, USA
     continent: North America
     link: https://amostech.com
+  - title: ESA 13th GNC & 10th ICATT Conference
+    startDate: 2026-09-28
+    endDate: 2026-10-02
+    location: Sevilla, Spain
+    continent: Europe
+    link: https://atpi.eventsair.com/gncicatt/
