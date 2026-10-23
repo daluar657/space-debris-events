@@ -1,25 +1,4 @@
 events:
-  - title: 77th International Astronautical Congress (IAC)
-    startDate: 2026-10-05
-    endDate: 2026-10-09
-    location: Antalya, Turkey
-    continent: Asia
-    link: https://www.iac2026.org/
-
-  - title: EcoDesign Industry Days 2026
-    startDate: 2026-10-07
-    endDate: 2026-10-08
-    location: ESAC, Villanueva de la Cañada, Madrid, Spain
-    continent: Europe
-    link: https://indico.esa.int/event/688/
-
-  - title: 14th IAASS Space Safety Conference
-    startDate: 2026-10-20
-    endDate: 2026-10-22
-    location: Antibes, France
-    continent: Europe
-    link: https://www.iaassconference2026.org/
-
   - title: 8th Summit for Space Sustainability
     startDate: 2026-11-04
     endDate: 2026-11-05
@@ -43,11 +22,19 @@ events:
 
 # 2027
 
+  - title: 3rd Workshop - Atmospheric Impacts of Spacecraft Launch and Re-entry
+    startDate: 2027-02-01
+    endDate: 2027-02-03
+    location: ESTEC, Noordwijk, Netherlands
+    continent: Europe
+    link: https://indico.esa.int/event/701/
+
   - title: 37th AIAA/AAS Space Flight Mechanics Meeting
     startDate: 2027-01-17
     endDate: 2027-01-21
     location: New Orleans, LA, USA
     continent: North America
+    link: https://www.space-flight.org/docs/2027_winter/2027_winter.html
 
   - title: 13th Annual Space Traffic Conference
     startDate: 2027-03-03
@@ -259,3 +246,21 @@ pastEvents:
     location: Sevilla, Spain
     continent: Europe
     link: https://atpi.eventsair.com/gncicatt/
+  - title: 77th International Astronautical Congress (IAC)
+    startDate: 2026-10-05
+    endDate: 2026-10-09
+    location: Antalya, Turkey
+    continent: Asia
+    link: https://www.iac2026.org/
+  - title: EcoDesign Industry Days 2026
+    startDate: 2026-10-07
+    endDate: 2026-10-08
+    location: ESAC, Villanueva de la Cañada, Madrid, Spain
+    continent: Europe
+    link: https://indico.esa.int/event/688/
+  - title: 14th IAASS Space Safety Conference
+    startDate: 2026-10-20
+    endDate: 2026-10-22
+    location: Antibes, France
+    continent: Europe
+    link: https://www.iaassconference2026.org/
