@@ -1,4 +1,12 @@
 events:
+
+  - title: 16th EASN International Conference
+    link: https://easnconference.eu/
+    startDate: 2026-10-27
+    endDate: 2026-10-30
+    location: Toulouse, France
+    continent: Europe
+    
   - title: 8th Summit for Space Sustainability
     startDate: 2026-11-04
     endDate: 2026-11-05
@@ -71,13 +79,6 @@ events:
     continent: Europe
     link: https://www.iac2027.com/
 
-  - title: 16th EASN International Conference
-    link: https://easnconference.eu/
-    startDate: 2026-10-27
-    endDate: 2026-10-30
-    location: Toulouse, France
-    continent: Europe
-
 # more
 
   - title: 47th COSPAR Scientific Assembly
@@ -93,6 +94,13 @@ events:
     location: Samarkand, Uzbekistan
     continent: Asia
     link: https://www.iac2028.org/
+    
+  - title: 80th International Astronautical Congress (IAC)
+    startDate: 2029-10-08
+    endDate: 2029-10-12
+    location: Geneva, Switzerland
+    continent: Europe
+    link: https://www.iac2029.ch/
 
   - title: 48th COSPAR Scientific Assembly
     startDate: 2030-07-20
